@@ -2,7 +2,7 @@
 from cryptography.fernet import Fernet as frt
 
 key="" #Add key
-token=""Add toke
+token="" #Add toke
 
 print('key: {0}, type: {1}'.format(key, type(key)))
 print('token: {0}, type: {1}'.format(token, type(token)))
